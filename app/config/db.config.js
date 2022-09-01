@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
+  HOST: "mariadb",
+  USER: "user1",
+  PASSWORD: "master",
   DB: "testdb"
 };
