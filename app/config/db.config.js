@@ -1,5 +1,5 @@
 module.exports = {
-  HOST: "mariadb",
+  HOST: "mysql",
   USER: "user1",
   PASSWORD: "master",
   DB: "testdb"
